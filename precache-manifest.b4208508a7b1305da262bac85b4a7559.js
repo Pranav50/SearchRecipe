@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da29a30405889224d71e7b0e2b589096",
+    "revision": "bed78237843714c34c000c364e7d364f",
     "url": "/SearchRecipe/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SearchRecipe/static/css/2.5262f6cb.chunk.css"
   },
   {
-    "revision": "1f11767e3706c82aa9be",
+    "revision": "403a8d55ba4ce05d721b",
     "url": "/SearchRecipe/static/css/main.97a94b4d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SearchRecipe/static/js/2.8ab6efa4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f11767e3706c82aa9be",
-    "url": "/SearchRecipe/static/js/main.f32026c8.chunk.js"
+    "revision": "403a8d55ba4ce05d721b",
+    "url": "/SearchRecipe/static/js/main.42e5da39.chunk.js"
   },
   {
     "revision": "f85e1b52bfbe6552edcb",
