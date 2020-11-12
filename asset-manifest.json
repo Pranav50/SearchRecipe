@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SearchRecipe/static/css/main.97a94b4d.chunk.css",
+    "main.js": "/SearchRecipe/static/js/main.f32026c8.chunk.js",
+    "main.js.map": "/SearchRecipe/static/js/main.f32026c8.chunk.js.map",
+    "runtime-main.js": "/SearchRecipe/static/js/runtime-main.c7f0414b.js",
+    "runtime-main.js.map": "/SearchRecipe/static/js/runtime-main.c7f0414b.js.map",
+    "static/css/2.5262f6cb.chunk.css": "/SearchRecipe/static/css/2.5262f6cb.chunk.css",
+    "static/js/2.8ab6efa4.chunk.js": "/SearchRecipe/static/js/2.8ab6efa4.chunk.js",
+    "static/js/2.8ab6efa4.chunk.js.map": "/SearchRecipe/static/js/2.8ab6efa4.chunk.js.map",
+    "index.html": "/SearchRecipe/index.html",
+    "precache-manifest.f63616fd3d864555c872214c03a4fbb3.js": "/SearchRecipe/precache-manifest.f63616fd3d864555c872214c03a4fbb3.js",
+    "service-worker.js": "/SearchRecipe/service-worker.js",
+    "static/css/2.5262f6cb.chunk.css.map": "/SearchRecipe/static/css/2.5262f6cb.chunk.css.map",
+    "static/css/main.97a94b4d.chunk.css.map": "/SearchRecipe/static/css/main.97a94b4d.chunk.css.map",
+    "static/js/2.8ab6efa4.chunk.js.LICENSE.txt": "/SearchRecipe/static/js/2.8ab6efa4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SearchRecipe/static/media/bg2.ad2e0bbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7f0414b.js",
+    "static/css/2.5262f6cb.chunk.css",
+    "static/js/2.8ab6efa4.chunk.js",
+    "static/css/main.97a94b4d.chunk.css",
+    "static/js/main.f32026c8.chunk.js"
+  ]
+}
